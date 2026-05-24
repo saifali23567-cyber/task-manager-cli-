@@ -1,0 +1,4 @@
+tasks = ["Homework", "Shopping"]
+
+for task in tasks:
+    print(task)
